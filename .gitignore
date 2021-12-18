@@ -2,3 +2,5 @@
 # conf.log
 
 *.log
+
+database/
